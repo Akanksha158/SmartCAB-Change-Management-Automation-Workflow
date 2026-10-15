@@ -18,3 +18,5 @@ Technology Stack
 * Postman for API testing
 
 This repository contains workflow diagrams and supporting screenshots illustrating the automation logic, API integration, validation conditions, email notifications, and scheduled reporting process.
+
+Short Demo: https://github.com/Akanksha158/SmartCAB-Change-Management-Automation-Workflow/issues/1#issue-5871410554
